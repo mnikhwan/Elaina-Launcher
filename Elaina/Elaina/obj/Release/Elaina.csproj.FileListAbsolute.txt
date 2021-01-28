@@ -1,0 +1,10 @@
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\bin\Release\Elaina.exe.config
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\bin\Release\Elaina.exe
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\bin\Release\Elaina.pdb
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\obj\Release\Elaina.csprojAssemblyReference.cache
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\obj\Release\Elaina.Form1.resources
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\obj\Release\Elaina.Properties.Resources.resources
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\obj\Release\Elaina.csproj.GenerateResource.cache
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\obj\Release\Elaina.csproj.CoreCompileInputs.cache
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\obj\Release\Elaina.exe
+F:\[!Dev]\Launcher\Elaina 0.1\Elaina\Elaina\obj\Release\Elaina.pdb
